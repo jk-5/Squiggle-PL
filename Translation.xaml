@@ -11,7 +11,7 @@
     <sys:String x:Key="Global_CancelButton">Anuluj</sys:String>
     <sys:String x:Key="Global_Menu_About">O programie</sys:String>
     <sys:String x:Key="Global_ContactSays">mówi</sys:String>
-    <sys:String x:Key="Global_ContactSaid">powiedział</sys:String>
+    <sys:String x:Key="Global_ContactSaid">napisał</sys:String>
     <sys:String x:Key="Global_You">Ty</sys:String>
     <sys:String x:Key="Global_ImageFilter">Pliki graficzne</sys:String>
     <sys:String x:Key="Buddy_StartChat">Rozpocznij czat</sys:String>
